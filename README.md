@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anepomnyaschih
+- 👋 Hi, I’m Anton Nepomnyashchikh
 - 👀 I’m interested in delivering projects successfully. I am Sr. .NET developer in past, but now my primary specialization is PM. Working as Unit Director at Lineate.
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anton Nepomnyashchikh
-- 👀 I’m interested in delivering projects successfully. I am Sr. .NET developer in past, but now my primary specialization is PM. Working as Unit Director at Lineate.
+- 👀 I am a Fullstack Developer.
 
 <!---
 anepomnyaschih/anepomnyaschih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
